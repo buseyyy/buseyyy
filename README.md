@@ -40,7 +40,7 @@ I believe coding should be <b>creative, inspiring, and fun!</b> 🎮
 ## 💌 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/buseyyy" target="_blank">
+  <a href="https://linkedin.com/in/buseeeyyy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bsylm@outlook.com">
